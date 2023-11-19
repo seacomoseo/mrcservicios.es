@@ -1,0 +1,38 @@
+title: MRC SERVICIOS
+description: Empresa de construcción, reformas y decoración. Interiorismo, proyectos, domótica, edificación, obra pública y redondas, contenedores soterrados para recogida de basura y carpintería metálica (hierro y aluminio).
+logo: logo-bg.svg
+legal_name: SERVICIOS COL AND MRC, S.L.
+legal_dni: B72773476
+legal_email: info@mrcservicios.es
+legal_location: Calle Pintor Tiziano, 2 Bajo Izquierda, 30120 El Palmar, Murcia
+country: España
+location_type:
+- LocalBusiness
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-WT3T1J8CJP
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social: []
+en:
+  description: Construction, renovation and decoration company. Interior design, projects, home automation, building, public works and round, underground containers for garbage collection and metal carpentry (iron and aluminum).

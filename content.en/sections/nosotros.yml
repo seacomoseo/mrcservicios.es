@@ -1,0 +1,25 @@
+title: About us
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - bg: fondo.jpg
+    more:
+      align_y: strech
+  - description: |
+      In **MRC SERVICIOS**, we are passionate about **transforming your spaces into masterpieces**.
+
+      We are a construction, renovation and decoration company with extensive experience in the sector. Our main objective is to provide you with integral and personalized solutions to transform your spaces into functional, aesthetic and quality environments.
+
+      We work in several countries and we are official distributor of Polo Ártico, a recognized brand in the field of public works.
+
+      We are distinguished by our attention to detail and our commitment to excellence. Our team of highly trained professionals will take care of every aspect of your project, from planning to execution, ensuring a flawless result.
+
+      We value open and transparent communication with our clients, understanding your needs and working closely with you to bring your ideas to life. You can trust that you will receive a reliable, efficient and top quality service.
+    more:
+      align: left

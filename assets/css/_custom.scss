@@ -1,0 +1,20 @@
+// Header Animations
+
+#body-home #header,
+#body-inicio #header {
+  .image {
+    @extend %draw;
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .column--item-1 {
+    .section__title {       @include show-up(1); }
+    .subtitle {             @include show-up(2); }
+    .description p {        @include show-up(3); }
+  }
+  .column--item-2 {
+    .image {             @include show-up(4); }
+    .description .buttons { @include show-up(5); }
+  }
+}

@@ -1,0 +1,25 @@
+title: Nosotros
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - bg: fondo.jpg
+    more:
+      align_y: strech
+  - description: |
+      En **MRC SERVICIOS**, nos apasiona **transformamos tus espacios en obras maestras**.
+
+      Somos una empresa de construcción, reformas y decoración con una amplia experiencia en el sector. Nuestro objetivo principal es brindarte soluciones integrales y personalizadas para transformar tus espacios en entornos funcionales, estéticos y de calidad.
+
+      Trabajamos en varios países y somos distribuidor oficial de Polo Ártico, una reconocida marca en el ámbito de la obra pública.
+
+      Nos distinguimos por nuestra atención al detalle y nuestro compromiso con la excelencia. Nuestro equipo de profesionales altamente capacitados se encargará de cada aspecto de tu proyecto, desde la planificación hasta la ejecución, asegurando un resultado impecable.
+
+      Valoramos la comunicación abierta y transparente con nuestros clientes, entendiendo tus necesidades y trabajando estrechamente contigo para materializar tus ideas. Puedes confiar en que recibirás un servicio confiable, eficiente y de primera calidad.
+    more:
+      align: left

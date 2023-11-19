@@ -1,0 +1,44 @@
+title: Services
+rows:
+- type: columns
+  design:
+    num: 4
+    color: white
+    card: true
+    hide_description: true
+  items:
+  - title: Construction Building
+    link: '#construction-building'
+    image: edificacion.jpg
+    description: |
+      Construction of solid and functional structures, from residential housing to commercial buildings.
+  - title: Public Works and Round about
+    link: '#public-works'
+    image: obra-publica.jpg
+    description: |
+      Infrastructure projects and construction of circular intersections to improve traffic flow.
+  - title: Underground Containers
+    link: '#underground-containers'
+    image: contenedores-soterrados.jpg
+    description: |
+      Efficient and aesthetic solution for waste management, maintaining a clean environment.
+  - title: Metallic Carpentry
+    link: '#metallic-carpentry'
+    image: carpinteria-metalica.jpg
+    description: |
+      Manufacture and assembly of durable and attractive metal doors, windows, grilles, etc., adapted to your needs.
+  - title: Reforms and Interior Design
+    link: '#reforms-interior-design'
+    image: reformas-interiorismo.jpg
+    description: |
+      We transform spaces with customized renovations and exceptional interior design.
+  - title: Decoration Projects
+    link: '#decoration-projects'
+    image: proyectos-decoracion.jpg
+    description: |
+      We create unique and welcoming environments that reflect your style and personality.
+  - title: Home Automations
+    link: '#home-automations'
+    image: domotica.jpg
+    description: |
+      Intelligent automation to control and optimize the lighting, security and comfort of your home or office.

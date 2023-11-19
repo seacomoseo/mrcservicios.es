@@ -1,0 +1,41 @@
+title: Contact
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Monday to Friday
+    hours: 8:00 - 14:00 and 16:00 - 20:00
+  - type: br
+  - type: phone
+    label: +34 621 06 13 97
+  - type: mail
+    label: info@mrcservicios.es
+  - type: address
+    active: true
+    name: MRC SERVICIOS
+    streetAddress: Calle Pintor Tiziano, 2
+    postalCode: 30120
+    addressLocality: El Palmar
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1708732,37.9371797]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Name
+      required: true
+    - type: tel
+      name: Phone
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Message
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CVwZjsEjsYYXEAI

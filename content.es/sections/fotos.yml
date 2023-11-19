@@ -1,0 +1,17 @@
+title: Fotos
+rows:
+- type: gallery
+  design:
+    num: 3
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - fondo.jpg
+  - obra-nueva.jpg
+  - edificacion-alt.jpg
+  - construccion.jpg
+  - carpinteria-metalica-alt.jpg
+  - carpinteria-metalica-alt-2.jpg

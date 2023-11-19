@@ -1,0 +1,37 @@
+title: Reseñas
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Laura G.
+    description: |
+      ¡Increíble trabajo que hicieron con la reforma de mi apartamento!
+
+      El equipo fue súper profesional y minucioso en cada detalle.
+
+      El resultado final superó mis expectativas con creces.
+
+      Los recomendaría a cualquiera que busque una reforma de calidad.
+  - title: Roberto M.
+    description: |
+      Quería agradecerles por convertir nuestra casa en un lugar acogedor y elegante.
+
+      Se preocuparon por entender nuestros gustos y nos ayudaron a materializar nuestras ideas.
+
+      ¡Estamos encantados con el resultado final!
+  - title: Ana R.
+    description: |
+      Los contratamos para instalar un sistema de domótica en nuestra oficina y no podríamos estar más contentos.
+
+      El equipo técnico fue muy profesional y nos guió en cada paso del proceso.
+
+      Ahora tenemos un espacio inteligente y eficiente energéticamente.
+
+      ¡Los recomendamos!
+- type: columns
+  items:
+  - description: |
+      [btn icon-google Más reseñas](https://g.page/r/CVwZjsEjsYYXEAI/review "noindex")

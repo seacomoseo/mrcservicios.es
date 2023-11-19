@@ -1,0 +1,37 @@
+title: Reviews
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Laura G.
+    description: |
+      Amazing job they did with the renovation of my apartment!
+
+      The team was super professional and thorough in every detail.
+
+      The end result far exceeded my expectations.
+
+      I would recommend them to anyone looking for a quality renovation.
+  - title: Roberto M.
+    description: |
+      I wanted to thank them for turning our home into a cozy and elegant place.
+
+      They made it a point to understand our tastes and helped us realize our ideas.
+
+      We are thrilled with the end result!
+  - title: Ana R.
+    description: |
+      We hired them to install a home automation system in our office and we couldn't be happier.
+
+      The technical team was very professional and guided us through every step of the process.
+
+      We now have a smart and energy efficient space.
+
+      We highly recommend them!
+- type: columns
+  items:
+  - description: |
+      [btn icon-google More reviews](https://g.page/r/CVwZjsEjsYYXEAI/review "noindex")

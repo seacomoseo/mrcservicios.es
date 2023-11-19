@@ -1,0 +1,44 @@
+title: Servicios
+rows:
+- type: columns
+  design:
+    num: 4
+    color: white
+    card: true
+    hide_description: true
+  items:
+  - title: Edificación de Obra Nueva
+    link: '#edificacion'
+    image: edificacion.jpg
+    description: |
+      Construcción de estructuras sólidas y funcionales, desde viviendas residenciales hasta edificios comerciales.
+  - title: Obra Pública y Redondas
+    link: '#obra-publica'
+    image: obra-publica.jpg
+    description: |
+      Realización de proyectos de infraestructura y construcción de intersecciones circulares para mejorar el tráfico.
+  - title: Contenedores Soterrados
+    link: '#contenedores-soterrados'
+    image: contenedores-soterrados.jpg
+    description: |
+      Solución eficiente y estética para la gestión de residuos, manteniendo un entorno limpio.
+  - title: Carpintería Metálica
+    link: '#carpinteria-metalica'
+    image: carpinteria-metalica.jpg
+    description: |
+      Fabricación y montaje de puertas, ventanas, rejas... metálicas duraderas y atractivas, adaptadas a tus necesidades.
+  - title: Reformas e Interiorismo
+    link: '#reformas-interiorismo'
+    image: reformas-interiorismo.jpg
+    description: |
+      Transformamos espacios con renovaciones personalizadas y diseño interior excepcional.
+  - title: Proyectos de Decoración
+    link: '#proyectos-decoracion'
+    image: proyectos-decoracion.jpg
+    description: |
+      Creamos ambientes únicos y acogedores que reflejan tu estilo y personalidad.
+  - title: Domótica y Automatismos
+    link: '#domotica'
+    image: domotica.jpg
+    description: |
+      Automatización inteligente para controlar y optimizar la iluminación, seguridad y comodidad de tu hogar u oficina.

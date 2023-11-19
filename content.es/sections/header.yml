@@ -1,0 +1,21 @@
+anchor: Empresa de Construcción, Reformas y Decoración
+bg: fondo.jpg
+more:
+  full_screen: true
+  opacity: 20
+  parallax: true
+rows:
+- type: columns
+  design:
+    num: 8
+    align_y: center
+  items:
+  - subtitle: Transformamos tus espacios en obras maestras
+    span: 3
+    image: logo-bg.svg
+    description: |
+      Construcción, Reformas y Decoración
+  - span: 5
+    image: construccion.mp4
+    description: |
+      [btn icon-plus Más](#principal)

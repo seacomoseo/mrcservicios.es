@@ -1,0 +1,21 @@
+anchor: Construction, Reforms and Decoration Company
+bg: fondo.jpg
+more:
+  full_screen: true
+  opacity: 20
+  parallax: true
+rows:
+- type: columns
+  design:
+    num: 8
+    align_y: center
+  items:
+  - subtitle: We transform your spaces into masterpieces
+    span: 3
+    image: logo-bg.svg
+    description: |
+      Construction, Reforms and Decoration
+  - span: 5
+    image: construction.mp4#poster=construccion.jpg
+    description: |
+      [btn icon-plus More](#main)
