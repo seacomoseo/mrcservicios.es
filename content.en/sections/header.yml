@@ -16,6 +16,7 @@ rows:
     description: |
       Construction, Reforms and Decoration
   - span: 5
-    image: construction.mp4#poster=construccion.jpg
+    # image: construction.mp4#poster=construccion.jpg
+    image: construccion.mp4
     description: |
       [btn icon-plus More](#main)
