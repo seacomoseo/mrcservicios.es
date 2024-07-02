@@ -9,18 +9,18 @@ rows:
     hours: 8:00 - 14:00 and 16:00 - 20:00
   - type: br
   - type: phone
-    label: +34 621 06 13 97
+    label: +34 638 45 89 75
   - type: mail
     label: info@mrcservicios.es
   - type: address
     active: true
-    name: MRC SERVICIOS
-    streetAddress: Calle Pintor Tiziano, 2
-    postalCode: 30120
-    addressLocality: El Palmar
+    name: MRC Servicios
+    streetAddress: Calle Humanidad, Nave D5
+    postalCode: '30820'
+    addressLocality: Alcantarilla
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1708732,37.9371797]}'
+    coordinates: '{"type":"Point","coordinates":[-1.201454,37.959373]}'
   form:
     fill_inputs: false
     items:

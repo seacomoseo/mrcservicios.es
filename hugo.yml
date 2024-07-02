@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1-bx8ylCpurPmzqjDZ4wWLCNlJb7o75qu
   drive_mails: info@mrcservicios.es, mrcservicios.es@gmail.com
 defaultContentLanguage: es
-disableLanguages: []
+disableLanguages: [fr]
 languages:
   es:
     paginatePath: pagina
